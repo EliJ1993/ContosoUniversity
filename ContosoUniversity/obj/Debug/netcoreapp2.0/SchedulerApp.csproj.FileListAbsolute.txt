@@ -1,0 +1,11 @@
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\SchedulerApp.deps.json
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\SchedulerApp.runtimeconfig.json
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\SchedulerApp.runtimeconfig.dev.json
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\SchedulerApp.dll
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp2.0\SchedulerApp.pdb
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\SchedulerApp.csprojResolveAssemblyReference.cache
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\SchedulerApp.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\SchedulerApp.AssemblyInfoInputs.cache
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\SchedulerApp.AssemblyInfo.cs
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\SchedulerApp.dll
+C:\Users\Elijah\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp2.0\SchedulerApp.pdb
